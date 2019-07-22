@@ -44,9 +44,9 @@ function biodata() {
 		skills: [{skill_name: "Java",
 				level: "advanced"},
 				{skill_name: "Javascript",
-				level: "advanced"}
+				level: "advanced"},
 				{skill_name: "C++",
-				level: "advanced"}
+				level: "advanced"},
 				{skill_name: "Python 3",
 				level: "beginner"}],
 		interest_in_coding: true
