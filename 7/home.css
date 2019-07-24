@@ -1,0 +1,43 @@
+body {
+	font-family: "Open Sans";
+}
+#tempat-logo
+{
+	position: absolute;
+	width: 150px;
+	height: 106px;
+	left: 48px;
+	top: 0px;
+	background-image: url("https://cdn-images-1.medium.com/max/1200/1*7ugSMISUo8vYf9ILG6VmuQ.png");	
+}
+h1 {
+	position: absolute;
+	width: 555px;
+	height: 65px;
+	left: 214px;
+	top: 34px;
+
+	font-style: normal;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 41px;
+
+	color: #000000;
+}
+.add-button {
+	position: absolute;
+	width: 190px;
+	height: 70px;
+	left: 1111px;
+	top: 353px;
+
+	background: #F3AC13;
+	border-radius: 10px;
+}
+.table-pos {
+	position: absolute;
+	width: 1292px;
+	height: 526.02px;
+	left: 143px;
+	top: 450.99px;
+}
